@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.aiassist/
+tmp-test-*/
+.tmp-test-*/
+tmpi*/
+probe*/
+.dot-dir-via-mkdir/
+.probe-*/
+.pytest_cache/
+.venv/
+eval/results.json
